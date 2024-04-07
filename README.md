@@ -1,4 +1,4 @@
-<h1 align="center">AED - Schedule Manager</h1>
+<h1 align="center">BD - Airport Management</h1>
 
 ><p align="center">
 > SQL database designed from scratch to manage various data related to a single specific airport.  
