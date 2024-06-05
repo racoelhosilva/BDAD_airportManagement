@@ -26,4 +26,5 @@ Design a Relational Database in SQL based on a real-world application from start
 > First Delivery (40%): 18.7  
 > Second Delivery (60%): 19.5  
 > Final Grade: 19.2  
+> Professors: Michel Ferreira  
 > Created in October 2023 for BD (Bases de Dados) [FEUP-L.EIC012]  
